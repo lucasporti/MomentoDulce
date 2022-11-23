@@ -2,6 +2,8 @@
 
 Proyecto realizado para la capacitación Front-End de Potrero Digital.
 
+Se trata de una página para un emprendimiento de pastelería.
+
 Diseño y maquetado con HTML, CSS & Bootstrap.
 
 Botones funcionales con Javascript!
