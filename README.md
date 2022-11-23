@@ -8,7 +8,7 @@ Botones funcionales con Javascript!
 
 Vista del inicio del proyecto.
 
-![image_2022-11-23_132917292](https://user-images.githubusercontent.com/94706367/203598696-4884bae5-8bac-41a6-9ed5-e75dfa3ecb8f.png)
+![proyecto](https://user-images.githubusercontent.com/94706367/203599753-45e08292-7774-4583-b43b-53ba33817cba.png)
 
 Sección Productos
 
